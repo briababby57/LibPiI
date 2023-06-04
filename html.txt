@@ -1,11 +1,11 @@
- syntax for ordered lists is as follows:
+# syntax for ordered lists is as follows:
 <ol>
 <li>This is the first item on the list. </li>
 <li>This is the second item on the list. </li>
 <li>This is the third item on the list. </li>
 </ol>
 
-description lists syntax would be:
+# description lists syntax would be:
 <dl>
 <dt>This is item #1.</dt>
 <dd>­ This is a description of item #1</dd>
@@ -18,14 +18,14 @@ description lists syntax would be:
 <dt>Item 2</dt>
 <dd>Description 2</dd>
 </dl>
-definition lists
+# definition lists
 <dl>
 <dt>HTML</dt>
 <dd>Hypertext Markup Language</dd>
 <dt>CSS</dt>
 <dd>Cascading Style Sheets</dd>
 </dl>
-unordered lists
+# unordered lists
 <ul>
   <li>First</li>
   <li>Second</li>
@@ -38,11 +38,11 @@ unordered lists
 <option value="female">Female</option>
 </select><br /> <input checked="checked" name="newsletter" type="radio" value="daily" /> Daily <input name="newsletter" type="radio" value="weekly" /> Weekly<br /> <textarea cols="20" name="comments" rows="5">Comment</textarea><br /> <label><input name="terms" type="checkbox" value="tandc" />Accept terms</label> <br /> <input type="submit" value="Submit" /></form>
 
-Bold text
+## Bold text
 <p><strong>Bold text</strong></p>
 italic text 
 <p><em>Italic text</em></p>
 
-Underline text
+## Underline text
 <p><span style="text-decoration: underline;">Underlined text</span></p>
 
