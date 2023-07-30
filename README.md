@@ -1,4 +1,4 @@
-# __TOC__
+# __Table of Contents__
 This is where ill keep "notes" as a guide for me.
 <li>HTML</li>
 <li>CSS</li>
