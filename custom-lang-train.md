@@ -1,5 +1,5 @@
 ---
-description: SideMark programming language
+description: SideMarkd programming language
 ---
 
 # Custom Lang Train
