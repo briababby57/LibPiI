@@ -6,4 +6,4 @@ description: '''MainMenu'' will be a  interactive, collaborative knowledge based
 
 Markdown & Python will be widely used.&#x20;
 
-Main Mark is the programming language for MainMenu.
+sideMarkd is the programming language for MainMenu.
